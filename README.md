@@ -42,3 +42,17 @@ fecha_nacimiento	DATE	Fecha de nacimiento
 edad	INTEGER	Generada automáticamente según la fecha de nacimiento
 
 El campo edad se calcula automáticamente a partir de la fecha de nacimiento.
+
+📌 Alcance
+
+✅ Backend funcional
+
+✅ API REST
+
+❌ No incluye frontend
+
+👨‍💻 Autor
+
+Jhonatan Barja
+
+Prueba técnica desarrollada con fines evaluativos y de aprendizaje.
